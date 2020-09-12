@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1599860576 source:c:\users\pablo\desktop\facultad\labo-prog-i\codeblocks\tp_1\calculos.c
+
+1599893705 source:f:\materias\labo-prog-i\codeblocks\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"calculos.h"
+
+1599893705 f:\materias\labo-prog-i\codeblocks\tp_1\calculos.h
+
+1599893813 source:f:\materias\labo-prog-i\codeblocks\tp_1\calculos.c
+
